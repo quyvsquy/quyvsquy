@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg fill="none" viewBox="0 0 400 169" width="400" height="169" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.box-item {
+                    width: 400px;
+                    border: 1px solid #e4e2e2;
+                    border-radius: 8px;
+                    padding: 20px;
+                    background-color: black;
+                    box-sizing: border-box;
+                    margin-right: 4px;
+                    
+                    display: block;
+                    text-decoration:none;
+                }
+                .box-item__heading {
+                    display: flex;
+                    color: #7fff00;
+                    align-items: center;
+                }
+                .app__icon {
+                    width: 40px;
+                    margin-right: 10px;
+                }
+                .box-item__notify-name {
+                    font-size: 18px;
+                    font-weight: 500;
+                    margin: 0;
+                }
+                .box-item__summary {
+                    color: #fff;
+                    font-size: 13px;
+                    margin: 16px 0 0;
+                }
+                .box-item__footer {
+                    display: flex;
+                    align-items: center;
+                    width: 160px;
+                    justify-content: space-between;
+                    margin: 20px 0 0;
+                }
+                .box-item__footer-lang {
+                    display: flex;
+                    align-items: center;
+                }
+
+                .box-item__footer-circle {
+                    width: 14px;
+                    height: 14px;
+                    border-radius: 50%;
+                    background-color: #00B4AB;
+                    margin-right: 8px;
+                }
+
+                .box-item__footer-circle.box-item__footer-circle--active {
+                    background-color: #E34C26;
+                }
+
+                .box-item__footer-name {
+                    color: #fff;
+                    font-size: 13px;
+                    margin: 0;
+                }
+
+                .box-item__footer-stars {
+                    display: flex;
+                    align-items: center;
+                }
+
+                .box-item__footer-icon {
+                    margin-right: 8px;
+                }
+
+                .box-item__footer-rate {
+                    color: #fff;
+                    font-size: 13px;
+                    margin: 0;
+                }                
+			</style>
+			<div class="box-item">
+                <div class="box-item__heading">
+                    <img class="app__icon" src="https://play-lh.googleusercontent.com/pgXDO1PURCrnwUECgJvnXUjtJsnWU2T6rxq1a5kcrAzR7XInvCjvwDf9INOj5c_BAvI=s180" title="Repeat_Notifications" alt="Repeat_Notifications"/>
+                    <h3 class="box-item__notify-name"><b>Repeat_Notifications</b></h3>
+                </div>
+                <p class="box-item__summary">Android app to create and repeat notifications after aperiod of time.</p>
+                <div class="box-item__footer">
+                    <div class="box-item__footer-lang">
+                        <div class="box-item__footer-circle"></div>
+                        <p class="box-item__footer-name">Flutter</p>
+                    </div>
+                    <div class="box-item__footer-stars">
+                        <img title="Google Play" alt="Google Play" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" class="box-item__footer-icon"   width="16" height="16"/>
+                        <p class="box-item__footer-rate">10+</p>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</foreignObject>
+</svg>
