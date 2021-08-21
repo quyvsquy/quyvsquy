@@ -31,53 +31,12 @@ OS|DE|Shell|Code Editor|Web Browsers
 - link 2 -->
 
 ## 🔥 &nbsp;Recent Releases
-<link rel="stylesheet" href="main.css">
-
 
 - ### Google Play Apps
 
-<!-- <div class="box-notify">
-<a class="box-item" href="https://play.google.com/store/apps/details?id=com.quyvsquy.arttransfer" style="text-decoration: none;">
-    <div class="box-item__heading">
-        <img class="app__icon" src="https://play-lh.googleusercontent.com/wAZqsk2FKx_Xz2IGCWhnfU9Xc2nFu051wsmK_MZCdP4o9Yr14cfCKYPQVCymhkRm0Ir5=s180" title="Art Transfer" alt="Art Transfer"/>
-        <h3 class="box-item__notify-name"><strong>Art Transfer</strong></h3>
-    </div>
-    <p class="box-item__summary">An android application use deep learning to Style Transfer image by foreground and background.</p>
-    <div class="box-item__footer">
-        <div class="box-item__footer-lang">
-            <div class="box-item__footer-circle"></div>
-            <p class="box-item__footer-name">Flutter</p>
-        </div>
-        <div class="box-item__footer-stars">
-            <img title="Google Play" alt="Google Play" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" class="box-item__footer-icon"   width="16" height="16"/>
-            <p class="box-item__footer-rate">500+</p>
-        </div>
-    </div>
-</a>
-<a class="box-item" href="https://play.google.com/store/apps/details?id=com.quyvsquy.repeat_notifications" style="text-decoration: none;">
-    <div class="box-item__heading">
-        <img class="app__icon" src="https://play-lh.googleusercontent.com/pgXDO1PURCrnwUECgJvnXUjtJsnWU2T6rxq1a5kcrAzR7XInvCjvwDf9INOj5c_BAvI=s180" title="Repeat Notifications" alt="Repeat Notifications"/>
-        <h3 class="box-item__notify-name"><strong>Repeat_Notifications</strong></h3>
-    </div>
-    <p class="box-item__summary">Android app to create and repeat notifications after aperiod of time.</p>
-    <div class="box-item__footer">
-        <div class="box-item__footer-lang">
-            <div class="box-item__footer-circle"></div>
-            <p class="box-item__footer-name">Flutter</p>
-        </div>
-        <div class="box-item__footer-stars">
-            <img title="Google Play" alt="Google Play" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" class="box-item__footer-icon"   width="16" height="16"/>
-            <p class="box-item__footer-rate">10+</p>
-        </div>
-    </div>
-</a>
-</div> -->
-<!-- <img src="images/art_transfer.svg" />
 
-<img src="images/repeat_notifications.svg"/> -->
-
-[![Art Transfer](images/art_transfer.svg)](https://play.google.com/store/apps/details?id=com.quyvsquy.arttransfer)
-[![Repeat Notifications](images/repeat_notifications.svg)](https://play.google.com/store/apps/details?id=com.quyvsquy.repeat_notifications)
+[![Art Transfer](images/png/art_transfer.png)](https://play.google.com/store/apps/details?id=com.quyvsquy.arttransfer)
+[![Repeat Notifications](images/png/repeat_notifications.png)](https://play.google.com/store/apps/details?id=com.quyvsquy.repeat_notifications)
 
 
 
@@ -123,15 +82,6 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br>
 
-<!-- <style>
-    .analyzist > *{
-        display: inline;
-    }
-</style> -->
-<!-- <details>
-<summary class="analyzist">
-<h2> 📊 &nbsp;GitHub Analytics </h2>
-</summary> -->
 
 <h2> 📊 &nbsp;GitHub Analytics </h2>
 
