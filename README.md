@@ -24,7 +24,7 @@
 ## 🧰 &nbsp;Used everyday
 OS|DE|Shell|Code Editor|Web Browsers
 |:--:|:--:|:--:|:--:|:--:|
-<img title="Manjaro" alt="Manjaro" width="40px" src="https://manjaro.org/img/logo.svg">|<img title="Manjaro" alt="Manjaro" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/KDE_logo.svg">|<img title="Zsh" alt="Zsh" width="40px" src="https://img.shields.io/badge/-Zsh-181717?style=flat-square">|<img title="VsCode" alt="VsCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">|<img title="FireFox" alt="FireFox" width="40px" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg">|
+<img title="Manjaro" alt="Manjaro" width="40px" src="https://manjaro.org/img/logo.svg"/>|<img title="Manjaro" alt="Manjaro" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/KDE_logo.svg"/>|<img title="Zsh" alt="Zsh" width="40px" src="https://img.shields.io/badge/-Zsh-181717?style=flat-square"/>|<img title="VsCode" alt="VsCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>|<img title="FireFox" alt="FireFox" width="40px" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"/>|
 
 <!-- ## 📕 &nbsp;My Latest Blog posts:
 - link 1
@@ -34,11 +34,12 @@ OS|DE|Shell|Code Editor|Web Browsers
 <link rel="stylesheet" href="main.css">
 
 
-### Google Play Apps
-<div class="box-notify">
+- ### Google Play Apps
+
+<!-- <div class="box-notify">
 <a class="box-item" href="https://play.google.com/store/apps/details?id=com.quyvsquy.arttransfer" style="text-decoration: none;">
     <div class="box-item__heading">
-        <img class="app__icon" src="https://play-lh.googleusercontent.com/wAZqsk2FKx_Xz2IGCWhnfU9Xc2nFu051wsmK_MZCdP4o9Yr14cfCKYPQVCymhkRm0Ir5=s180" title="Art Transfer" alt="Art Transfer">
+        <img class="app__icon" src="https://play-lh.googleusercontent.com/wAZqsk2FKx_Xz2IGCWhnfU9Xc2nFu051wsmK_MZCdP4o9Yr14cfCKYPQVCymhkRm0Ir5=s180" title="Art Transfer" alt="Art Transfer"/>
         <h3 class="box-item__notify-name"><strong>Art Transfer</strong></h3>
     </div>
     <p class="box-item__summary">An android application use deep learning to Style Transfer image by foreground and background.</p>
@@ -48,14 +49,14 @@ OS|DE|Shell|Code Editor|Web Browsers
             <p class="box-item__footer-name">Flutter</p>
         </div>
         <div class="box-item__footer-stars">
-            <img title="Google Play" alt="Google Play" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" class="box-item__footer-icon"   width="16" height="16">
+            <img title="Google Play" alt="Google Play" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" class="box-item__footer-icon"   width="16" height="16"/>
             <p class="box-item__footer-rate">500+</p>
         </div>
     </div>
 </a>
 <a class="box-item" href="https://play.google.com/store/apps/details?id=com.quyvsquy.repeat_notifications" style="text-decoration: none;">
     <div class="box-item__heading">
-        <img class="app__icon" src="https://play-lh.googleusercontent.com/pgXDO1PURCrnwUECgJvnXUjtJsnWU2T6rxq1a5kcrAzR7XInvCjvwDf9INOj5c_BAvI=s180" title="Repeat Notifications" alt="Repeat Notifications">
+        <img class="app__icon" src="https://play-lh.googleusercontent.com/pgXDO1PURCrnwUECgJvnXUjtJsnWU2T6rxq1a5kcrAzR7XInvCjvwDf9INOj5c_BAvI=s180" title="Repeat Notifications" alt="Repeat Notifications"/>
         <h3 class="box-item__notify-name"><strong>Repeat_Notifications</strong></h3>
     </div>
     <p class="box-item__summary">Android app to create and repeat notifications after aperiod of time.</p>
@@ -65,16 +66,25 @@ OS|DE|Shell|Code Editor|Web Browsers
             <p class="box-item__footer-name">Flutter</p>
         </div>
         <div class="box-item__footer-stars">
-            <img title="Google Play" alt="Google Play" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" class="box-item__footer-icon"   width="16" height="16">
+            <img title="Google Play" alt="Google Play" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" class="box-item__footer-icon"   width="16" height="16"/>
             <p class="box-item__footer-rate">10+</p>
         </div>
     </div>
 </a>
-</div>
+</div> -->
+<!-- <img src="images/art_transfer.svg" />
+
+<img src="images/repeat_notifications.svg"/> -->
+
+[![Art Transfer](images/art_transfer.svg)](https://play.google.com/store/apps/details?id=com.quyvsquy.arttransfer)
+[![Repeat Notifications](images/repeat_notifications.svg)](https://play.google.com/store/apps/details?id=com.quyvsquy.repeat_notifications)
+
+
 
 ---
 
-### Github Repositories
+- ### Github Repositories
+
 [![Repeat Notifications](https://github-readme-stats.vercel.app/api/pin/?username=quyvsquy&repo=Repeat_Notifications&theme=chartreuse-dark)](https://github.com/quyvsquy/Repeat_Notifications)
 [![Asc UIT](https://github-readme-stats.vercel.app/api/pin/?username=quyvsquy&repo=ascUIT&theme=chartreuse-dark)](https://github.com/quyvsquy/ascUIT)
 
@@ -91,37 +101,39 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="Flutter" alt="Flutter" width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">|<img title="Selenium" alt="Selenium" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/selenium.svg">|<img title="Flask" alt="Flask" width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">|<img title="Docker" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+<img title="Flutter" alt="Flutter" width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>|<img title="Selenium" alt="Selenium" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/selenium.svg"/>|<img title="Flask" alt="Flask" width="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/>|<img title="Docker" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
 |--|--|--|--|
 
 
 **Cloud**
 
-<img title="Heroku" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">|<img title="Azure" alt="Azure" width="40px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+<img title="Heroku" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/>|<img title="Azure" alt="Azure" width="40px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/>
 |--|--|
 
 
 **Databases**
-<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">|<img title="MySQL" alt="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>|<img title="MySQL" alt="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
 |--|--|
 
 
 **Tools**
 
-<img title="git" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg">
+<img title="git" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"/>
 |--|--|
 
 <br>
 
-<style>
+<!-- <style>
     .analyzist > *{
         display: inline;
     }
-</style>
-<details>
+</style> -->
+<!-- <details>
 <summary class="analyzist">
 <h2> 📊 &nbsp;GitHub Analytics </h2>
-</summary>
+</summary> -->
+
+<h2> 📊 &nbsp;GitHub Analytics </h2>
 
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=quyvsquy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>|<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyvsquy&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 |--|--|
