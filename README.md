@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Quy, Dang Quoc </h1>
 <h3 align="center">Scripting & Automation | Data Scientist</h3>
 <p align="center">
-<a href="https://www.datacamp.com/profile/quyvsquy" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="lin_quyvsquy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/quyvsquy/" target="blank"><img align="center" src="https://simpleicons.org/icons/datacamp.svg" alt="datacamp_quyvsquy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/quyvsquy" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="lin_quyvsquy" height="30" width="40" /></a>
+<a href="https://www.datacamp.com/profile/quyvsquy" target="blank"><img align="center" src="https://simpleicons.org/icons/datacamp.svg" alt="datacamp_quyvsquy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/quyvsquy/" target="blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="fb_quyvsquy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/quocquy7519" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="hack_quyvsquy" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~01a38db57c77cfc2cc" target="blank"><img align="center" src="https://simpleicons.org/icons/upwork.svg" alt="up_quyvsquy" height="30" width="40" /></a>
