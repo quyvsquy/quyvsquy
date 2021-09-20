@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Quy, Dang Quoc </h1>
-<h3 align="center">Scripting & Automation | Data Scientist</h3>
+<h3 align="center">Scripting & Automation | Data Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/quyvsquy" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="lin_quyvsquy" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/profile/quyvsquy" target="blank"><img align="center" src="https://simpleicons.org/icons/datacamp.svg" alt="datacamp_quyvsquy" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 - 📱 I like to make apps for **Android** with Flutter.
 - 🌐 I also like to use **Selenium Python** to create automatic scripts for websites.
 - 💡 I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**.
-- 🌱 I’m currently pursuing **Data Science**.
+- 🌱 I’m currently pursuing **Data Engineer** on [**Datacamp**](https://learn.datacamp.com/career-tracks/data-engineer-with-python?version=3).
 - 🏃‍♂️ I love **running** so much.
 
 
@@ -72,6 +72,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 **Databases**
+
 <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>|<img title="MySQL" alt="MySQL" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
 |--|--|
 
