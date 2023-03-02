@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Quy, Dang Quoc </h1>
-<h3 align="center">Scripting & Automation | Data Engineer</h3>
+<h3 align="center">Scripting & Automation | Python (Odoo)</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/quyvsquy" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="lin_quyvsquy" height="30" width="40" /></a>
 <a href="https://www.datacamp.com/profile/quyvsquy" target="blank"><img align="center" src="https://simpleicons.org/icons/datacamp.svg" alt="datacamp_quyvsquy" height="30" width="40" /></a>
